@@ -12,7 +12,7 @@ devops-task-tyk
 *.dll
 *.so
 *.dylib
-
+tykio/
 # Test binary, built with `go test -c`
 *.test
 
