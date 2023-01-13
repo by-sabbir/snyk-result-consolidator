@@ -11,6 +11,7 @@ devops-task-tyk
 *.exe~
 *.dll
 *.so
+*.csv
 *.dylib
 tykio/
 # Test binary, built with `go test -c`
