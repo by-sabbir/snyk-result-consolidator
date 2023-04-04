@@ -3,7 +3,7 @@ module github.com/by-sabbir/devops-task-tyk
 go 1.19
 
 require (
-	github.com/docker/docker v20.10.22+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/gocarina/gocsv v0.0.0-20221216233619-1fea7ae8d380
 )
 
